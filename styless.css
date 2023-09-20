@@ -1,0 +1,64 @@
+*{
+    font-family: 'Roboto';
+}
+
+.body-1{
+    background-color: black;
+    padding-left: 35%;
+    padding-top: 2%;
+    
+}
+
+div{
+    background-color: white;
+
+    
+}
+img{
+    width: 400px;
+}
+
+.post{
+    width: 400px;
+}
+.header{
+    display: flex;
+    padding: 1%;
+}
+.head-text{
+    font-size: smaller;
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+.title-head{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+.p-title{
+    padding: 0%;
+    border: 0%;
+    margin: 0%;
+}
+.fa-html5{
+    padding-top: 4%;
+    padding-right: 1%;
+}
+.fa-ellipsis-vertical{
+    padding-top: 4%;
+    padding-left: 80%;
+}
+.icons{
+    display: flex;
+    padding: 1%;
+    padding-top: 3%;
+}
+.fa-bookmark{
+    padding-left: 1050%;
+}
+.p-body{
+    padding-bottom: 1%;
+    padding-left: 3%;
+    padding-right: 3%;
+}
